@@ -1,7 +1,7 @@
 ---
 title: "Golang Kathmandu Meetup #5 - Sep"
 date: 2020-08-24T13:30:02+05:45
-draft: true
+draft: false
 ---
 ### September 13 2020
 
@@ -14,7 +14,7 @@ https://www.meetup.com/Golang-Kathmandu
 
 -------------
 
-### [Talk] No-instrumentation Log Injection in Go with eBPF
+### [Talk] No-instrumentation Log Injection in Go with eBPF.
 
 ----
 
